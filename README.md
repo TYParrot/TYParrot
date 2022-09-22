@@ -1,9 +1,6 @@
 ### Hi there 👋
---
-앵무앵무:
---
+
 <!--
-나는 태윤앵무새
 
 **TYParrot/TYParrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 hello, i'm fine thankyou, and you?
+haha
