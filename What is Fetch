@@ -1,2 +1,6 @@
 Let's do this.
 Fail to fetch, but pull succeed.
+Fetch command just scanning the difference between local and repository on git.
+so, just fetch and look the diffs.
+And then pulling the diffs is satisfy then just pulling.
+
