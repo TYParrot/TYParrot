@@ -2,7 +2,7 @@
 
 ### 🎮 KPLY: 3D 게임 개발 (2023.09 – 2024.06)  
 **역할**: Unity 프로그래밍 및 서버 연동  
-**기술**: Unity, C#, 뒤끝 (BaaS)  
+**기술**: Unity, C#, 뒤끝
 🔗 [프로젝트 노션 보기](https://ember-rifle-620.notion.site/KPLY-118e1d8ebb4d81e89e93f8dc0d64267f?source=copy_link)
 
 ### ⏳ VR 시간여행 체험 (2024.03 – 2024.06)  
@@ -39,3 +39,6 @@
 ### 🌐 SIC: 360도 영상 기반 햅틱 VR 콘텐츠 (2024.05 – 진행 중)  
 **역할**: 360 VR 기반 체험 시나리오 구현 및 햅틱 통합  
 **기술**: Unity, VR, C#
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TYParrot&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taeyoon0305)](https://solved.ac/taeyoon0305/)
