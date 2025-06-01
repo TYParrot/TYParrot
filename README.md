@@ -10,7 +10,7 @@
 **기술**: Unity, VR, C#  
 🔗 [프로젝트 노션 보기](https://ember-rifle-620.notion.site/VR-118e1d8ebb4d810f870ad8db441c0f0e?source=copy_link)
 
-### 🤖 TEMI 로봇: 독거노인 돌봄 서비스 (2024.09 – 2024.12 예정)  
+### 🤖 TEMI 로봇: 독거노인 돌봄 서비스 (2024.09 – 2024.12)  
 **역할**: 서비스 시나리오 설계 및 TEMI 연동 개발  
 **기술**: Android Studio, Java, TEMI SDK  
 🔗 [프로젝트 노션 보기](https://ember-rifle-620.notion.site/_-118e1d8ebb4d8137aa47dcd3c0338236?source=copy_link)
@@ -22,7 +22,7 @@
 - [ACM 논문 1](https://dl.acm.org/doi/abs/10.1145/3641825.3689524)  
 - [ACM 논문 2](https://dl.acm.org/doi/10.1145/3708359.3712097)
 
-### 🤢 VR 사이버 멀미 실험 (2024.07 – 2024.09 예정)  
+### 🤢 VR 사이버 멀미 실험 (2024.07 – 2024.09)  
 **역할**: 멀미 유도 조건 설정 및 사용자 반응 분석 시스템 개발  
 **기술**: Unity, VR, C#  
 📄 *논문 준비 중*
