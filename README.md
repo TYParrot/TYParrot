@@ -2,7 +2,7 @@
 
 ### 🎮 KPLY: 3D 게임 개발 (2023.09 – 2024.06)  
 **역할**: Unity 프로그래밍 및 서버 연동  
-**기술**: Unity, C#, 뒤끝
+**기술**: Unity, C#, 뒤끝  
 🔗 [프로젝트 노션 보기](https://ember-rifle-620.notion.site/KPLY-118e1d8ebb4d81e89e93f8dc0d64267f?source=copy_link)
 
 ### ⏳ VR 시간여행 체험 (2024.03 – 2024.06)  
