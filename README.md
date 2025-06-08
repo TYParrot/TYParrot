@@ -32,7 +32,7 @@
 
 ### 🧠 VR 기반 AI 상담 시스템 (2024.04 – 2024.06)  
 **역할**: AI 연동 대화 시스템 개발 및 VR 시나리오 구현  
-**기술**: Unity, VR, C#, AI 모델 연동
+**기술**: Unity, VR, C#, AI 모델 연동  
 🔗 [Github](https://github.com/TYParrot/Counsel)
 
 ### 🧤 KOCCA: 햅틱 기반 VR 상호작용 (2025.01 – 진행 중)  
