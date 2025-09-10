@@ -21,9 +21,7 @@
 ### 🎨 VR 고무판화 체험 (2024.03 – 2024.07)  
 **역할**: VR 드로잉 구현 및 인터페이스 디자인  
 **기술**: Unity, VR, C#  
-- [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862211)  
-- [ACM](https://dl.acm.org/doi/abs/10.1145/3641825.3689524)  
-- [ACM](https://dl.acm.org/doi/10.1145/3708359.3712097)
+🔗 [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862211) 🔗 [ACM](https://dl.acm.org/doi/abs/10.1145/3641825.3689524) 🔗 [ACM](https://dl.acm.org/doi/10.1145/3708359.3712097)
 
 ### 🤢 VR 사이버 멀미 실험 (2024.07 – 2024.09)  
 **역할**: 씬 구현 및 데이터 분석  
