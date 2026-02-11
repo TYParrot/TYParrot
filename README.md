@@ -1,6 +1,15 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TYParrot&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taeyoon0305)](https://solved.ac/taeyoon0305/)  
 ## 🛠 Major Projects
+
+### 🎮 A.S.K.S.: EXE.CUTOR 게임 개발(2025.11 - 2026.02)
+**역할**: 기획 · PM · 시스템 구현 · QA  
+**주요 업무**:
+게임 기획 전반 참여, 일정 관리 및 프로젝트 매니징,
+저장/로드 시스템 구현, 로그라이크 노드맵 기획,
+버그 재현 및 테스트, QA 협업, 디자인 문서 작성,
+스팀 페이지 운영 및 공지/유저 소통, 홍보 기획  
+**기술**: Unity, C#  
+🔗 [Steam](https://store.steampowered.com/app/4311010/EXECUTOR/?l=koreana)
 
 ### 🎮 KPLY: 3D 게임 개발 (2023.09 – 2024.06)  
 **역할**: Unity 프로그래밍 및 서버 연동  
