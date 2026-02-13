@@ -1,47 +1,58 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taeyoon0305)](https://solved.ac/taeyoon0305/)  
-## 🛠 Major Projects
+# 재미를 설계하고 구현하며 검증하는 게임 인재 이태윤입니다.
 
-### 🎮 A.S.K.S.: EXE.CUTOR 게임 개발(2025.11 - 2026.02)
-**역할**: 기획 · PM · 시스템 구현 · QA  
-**주요 업무**: PM·기획·핵심 시스템 구현·QA·스팀 운영   
-**기술**: Unity, C#  
-🔗 [Steam](https://store.steampowered.com/app/4311010/EXECUTOR/?l=koreana)
+<p align="center">
+  <a href="https://ember-rifle-620.notion.site/Lee-TaeYoon-305e1d8ebb4d8006bbc0c599f41f8476?source=copy_link">
+    <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+</p>
 
-### 🎮 KPLY: 3D 게임 개발 (2023.09 – 2024.06)  
-**역할**: Unity 프로그래밍 및 서버 연동  
-**기술**: Unity, C#, 뒤끝  
+---
 
-### ⏳ VR 시간여행 체험 (2024.03 – 2024.06)  
-**역할**: VR 콘텐츠 구현 및 사용자 인터랙션 개발  
-**기술**: Unity, VR, C#  
-🔗 [프로젝트 노션](https://ember-rifle-620.notion.site/VR-118e1d8ebb4d810f870ad8db441c0f0e?source=copy_link)
-🔗 [Github](https://github.com/TYParrot/TimeTravel)
+## 🛠 Tech Stack
 
-### 🤖 TEMI 로봇: 독거노인 돌봄 서비스 (2024.09 – 2024.12)  
-**역할**: 서비스 시나리오 설계 및 TEMI 연동 개발  
-**기술**: Android Studio, Java, TEMI SDK  
-🔗 [프로젝트 노션](https://ember-rifle-620.notion.site/_-118e1d8ebb4d8137aa47dcd3c0338236?source=copy_link)
-🔗 [Github](https://github.com/TYParrot/TemiRobot)
+| Category | Tech |
+|----------|------|
+| Languages | ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
+| Engine | ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) |
+| Analysis | ![Game Log Analysis](https://img.shields.io/badge/Game%20Log%20Analysis-4B8BBE?style=for-the-badge) |
+| Tools | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) |
+| Collaboration | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) |
+| OS | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
 
-### 🎨 VR 고무판화 체험 (2024.03 – 2024.07)  
-**역할**: VR 드로잉 구현 및 인터페이스 디자인  
-**기술**: Unity, VR, C#  
-🔗 [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862211) 🔗 [ACM](https://dl.acm.org/doi/abs/10.1145/3641825.3689524) 🔗 [ACM](https://dl.acm.org/doi/10.1145/3708359.3712097)
+---
 
-### 🤢 VR 사이버 멀미 실험 (2024.07 – 2024.09)  
-**역할**: 씬 구현 및 데이터 분석  
-**기술**: Unity, VR, C#  
-🔗 [IEEE](https://ieeexplore.ieee.org/document/11220532)
+## 🎮 Featured Project
 
-### 🧠 VR 기반 AI 상담 시스템 (2024.04 – 2024.06)  
-**역할**: AI 연동 대화 시스템 개발 및 VR 시나리오 구현  
-**기술**: Unity, VR, C#, AI 모델 연동  
-🔗 [Github](https://github.com/TYParrot/Counsel)
+### A.S.K.S. : EXE.CUTOR (2025.11 – 2026.02)
 
-### 🧤 KOCCA: 햅틱 기반 VR 상호작용 (2025.01 – 2025.07)  
-**역할**: 햅틱 피드백 설계 및 Unity 인터페이스 개발  
-**기술**: Unity, VR, C#
+**Role**  
+기획 · PM · 시스템 구현 · QA · Steam 출시 및 운영  
 
-### 🌐 SIC: 360도 영상 기반 햅틱 VR 콘텐츠 (2025.05 – 2025.06)  
-**역할**: 360 VR 기반 체험 시나리오 구현 및 햅틱 통합  
-**기술**: Unity, VR, C#
+**Tech**  
+Unity · C Sharp  
+
+<p>
+  <a href="https://store.steampowered.com/app/4311010/EXECUTOR/?l=koreana">
+    <img src="https://img.shields.io/badge/Steam-EXECUTOR-1B2838?style=for-the-badge&logo=steam&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📂 Other Projects
+
+### KPLY – 3D Game (2023.09 – 2024.06)
+Unity 프로그래밍 · 서버 연동  
+Tech: Unity · C Sharp
+
+### VR Time Travel (2024.03 – 2024.06)
+VR 콘텐츠 구현 · 사용자 인터랙션 개발  
+Tech: Unity · VR · C Sharp
+
+### TEMI Robot Care Service (2024.09 – 2024.12)
+서비스 시나리오 설계 · Android 연동 개발  
+Tech: Android Studio · Java · TEMI SDK
+
+### VR Interaction & Research Projects (2024 – 2025)
+VR 드로잉 · 사이버 멀미 실험 · AI 상담 시스템 · 햅틱 기반 VR  
+Tech: Unity · VR · C Sharp
