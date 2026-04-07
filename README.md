@@ -41,18 +41,20 @@ Unity · C Sharp
 
 ## 📂 Other Projects
 
-### KPLY – 3D Game (2023.09 – 2024.06)
-Unity 프로그래밍 · 서버 연동  
-Tech: Unity · C Sharp
-
-### VR Time Travel (2024.03 – 2024.06)
-VR 콘텐츠 구현 · 사용자 인터랙션 개발  
+### VR Interaction & Research Projects (2024 – 2025)
+VR 드로잉 · 사이버 멀미 실험 · AI 상담 시스템 · 햅틱 기반 VR  
 Tech: Unity · VR · C Sharp
 
 ### TEMI Robot Care Service (2024.09 – 2024.12)
 서비스 시나리오 설계 · Android 연동 개발  
 Tech: Android Studio · Java · TEMI SDK
 
-### VR Interaction & Research Projects (2024 – 2025)
-VR 드로잉 · 사이버 멀미 실험 · AI 상담 시스템 · 햅틱 기반 VR  
+### VR Time Travel (2024.03 – 2024.06)
+VR 콘텐츠 구현 · 사용자 인터랙션 개발  
 Tech: Unity · VR · C Sharp
+
+### KPLY – 3D Game (2023.09 – 2024.06)
+Unity 프로그래밍 · 서버 연동  
+Tech: Unity · C Sharp
+
+
