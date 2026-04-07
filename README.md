@@ -23,6 +23,22 @@
 
 ## 🎮 Featured Project
 
+### Team Baeb Sae : 바들바들(Wobble Wobble) (2026.02 – 2026.04)
+
+**Role**  
+기획 · 시스템 구현 · QA · Steam 출시 및 운영  
+
+**Tech**  
+Unity · C Sharp  
+
+<p>
+  <a href="https://store.steampowered.com/app/4529820/Wobble_Wobble/">
+    <img src="https://img.shields.io/badge/Steam-WobbleWobble-1B2838?style=for-the-badge&logo=steam&logoColor=white"/>
+  </a>
+</p>
+
+## 
+
 ### A.S.K.S. : EXE.CUTOR (2025.11 – 2026.02)
 
 **Role**  
@@ -34,22 +50,6 @@ Unity · C Sharp
 <p>
   <a href="https://store.steampowered.com/app/4311010/EXECUTOR/?l=koreana">
     <img src="https://img.shields.io/badge/Steam-EXECUTOR-1B2838?style=for-the-badge&logo=steam&logoColor=white"/>
-  </a>
-</p>
-
-## 
-
-### Team Baeb Sae : Wobble Wobble (2026.02 – 2026.04)
-
-**Role**  
-기획 · 시스템 구현 · QA · Steam 출시 및 운영  
-
-**Tech**  
-Unity · C Sharp  
-
-<p>
-  <a href="https://store.steampowered.com/app/4529820/Wobble_Wobble/">
-    <img src="https://img.shields.io/badge/Steam-WobbleWobble-1B2838?style=for-the-badge&logo=steam&logoColor=white"/>
   </a>
 </p>
 
