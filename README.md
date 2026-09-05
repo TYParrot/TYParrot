@@ -21,7 +21,23 @@
 
 ---
 
-## 🎮 Featured Project
+## 🎮 Side Project
+### Team Baeb Sae : Motelet (2026.04 – 2026.09)
+
+**Role**  
+기획 · 아트 · QA · Steam 출시 및 운영  
+
+**Tech**  
+Unity · Figma · C Sharp
+
+<p>
+  <a href="https://store.steampowered.com/app/4850970/Motelet/?l=koreana">
+    <img src="https://img.shields.io/badge/Steam-Motelet-1B2838?style=for-the-badge&logo=steam&logoColor=white"/>
+  </a>
+</p>
+
+## 
+
 
 ### Team Baeb Sae : 바들바들(Wobble Wobble) (2026.02 – 2026.04)
 
