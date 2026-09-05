@@ -20,7 +20,20 @@
 | OS | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
 
 ---
+## 💼 Career
+### 모바일 게임 회사 (2026.06 – 재직중)
 
+**Role**  
+인게임 시스템 구현 · UI/UX 설계 및 구현 · QA  
+(주간 목표, 가챠, 랭킹, 도감, 출석체크 시스템)
+
+**Project**  
+미공개 모바일 방치형 게임 (소프트 론칭 완료, 글로벌 론칭 준비 중)  
+
+**Tech**  
+Unity · C Sharp
+
+---
 ## 🎮 Side Project
 ### Team Baeb Sae : Motelet (2026.04 – 2026.09)
 
